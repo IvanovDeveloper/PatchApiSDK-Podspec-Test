@@ -1,0 +1,1 @@
+# PatchApiSDK-Podspec-Test
